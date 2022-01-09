@@ -1,0 +1,17 @@
+{
+    "name": "HFSM.Experimental",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a8c3f0d4ebc71143927e3127d9de81a",
+        "GUID:9761135aead4c3e4fa80d49b151db232"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
